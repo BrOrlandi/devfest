@@ -14,7 +14,7 @@ title: "DevFest Campinas"
 email: "contato@gdg-campinas.org"
 description: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
 baseurl: "/devfest"
-url: "https://gdg-campinas.github.io"
+url: "https://brorlandi.github.io"
 # permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-campinas.github.io"
@@ -26,7 +26,7 @@ aboutEvent:
   content: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
 aboutGDG:
   title: "O QUE É O GDG?"
-  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
+  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo.
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
 
 # Organizer Info
@@ -65,8 +65,8 @@ navigationLinks:
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 #  - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}
  - {permalink: "/team/", text: "Time"}
- - {link: "https://github.com/gdg-campinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"} 
- 
+ - {link: "https://github.com/gdg-campinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"}
+
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
 rightNavigationButtons:
@@ -180,7 +180,7 @@ ticketsOffers:
   validFrom: ""
   validThrough: ""
   disabled: true
-  featured: false  
+  featured: false
   soldOut: true
   soldOutText: "Esgotado"
  -
@@ -230,7 +230,7 @@ ticketsOffers:
   buyButtonText: "Comprar"
   validFrom: "29/10/2017T00:00"
   validThrough: "21/11/2018T00:00"
-  featured: true  
+  featured: true
   disabled: false
   soldOut: false
   soldOutText: "Esgotado"
@@ -276,7 +276,7 @@ ticketsOffers:
   featured: false
   soldOut: true
   soldOutText: "Esgotado"
-  
+
  -
   name: "2º Lote (só ingresso)"
   price: "190,00"
@@ -310,8 +310,8 @@ socialLinks:
  - {link: "https://www.facebook.com/gdgcampinas/", icon: "facebook"}
  - {link: "https://www.linkedin.com/company-beta/15240699/", icon: "linkedin"}
  - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
- - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"} 
- 
+ - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"}
+
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -325,7 +325,7 @@ footerBlocks:
   title: "Eventos 2018"
   links:
    - {link: "https://gdg-campinas.github.io/androidfest/", text: "AndroidFest"}
-   - {link: "https://gdg-campinas.github.io/datafest/", text: "DataFest"}   
+   - {link: "https://gdg-campinas.github.io/datafest/", text: "DataFest"}
    - {link: "https://gdg-campinas.github.io/qualityfest/", text: "QualityFest"}
  -
   title: "Contatos"
@@ -349,7 +349,7 @@ showMentorSessions: false
 
 # Team Block
 teamBlockTitle: "Quem somos"
-aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
+aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo.
   <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
 teamOrganizerTitle: "Organizadores"
 
